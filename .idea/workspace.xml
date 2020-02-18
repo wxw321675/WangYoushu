@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="329f6405-7ed4-4788-94cf-cf9e96779eb3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/css/images/wys1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/wys2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/images/wys3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="329f6405-7ed4-4788-94cf-cf9e96779eb3" name="Default" comment="阿萨">
+      <change beforePath="$PROJECT_DIR$/.idea/.deploy_git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.deploy_git.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path=".deploy_git.iws" />
-    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,8 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -33,6 +31,7 @@
           <entry key="css" value="1" />
           <entry key="html" value="1" />
           <entry key="js" value="2" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -40,6 +39,19 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="26" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="26" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -49,20 +61,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="31" column="17" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="17" />
+            <state relative-caret-position="209">
+              <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-855">
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="255">
+              <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -70,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="6650">
               <caret line="350" column="32" selection-start-line="350" selection-start-column="26" selection-end-line="350" selection-end-column="32" />
             </state>
           </provider>
@@ -85,7 +97,15 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -114,32 +134,6 @@
             <path>
               <item name=".deploy_git" type="b2602c69:ProjectViewProjectNode" />
               <item name="wxw321675.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name=".deploy_git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wxw321675.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name=".deploy_git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wxw321675.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="02" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name=".deploy_git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wxw321675.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="02" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name=".deploy_git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wxw321675.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -157,18 +151,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../Software/Adroid/android-sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582031053621" />
+    <property name="last_opened_file_path" value="E:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -235,18 +229,48 @@
       <option name="presentableId" value="Default" />
       <updated>1485932194384</updated>
       <workItem from="1582027613310" duration="322000" />
-      <workItem from="1582029351040" duration="524000" />
+      <workItem from="1582029351040" duration="1114000" />
+      <workItem from="1582030558864" duration="495000" />
     </task>
+    <task id="LOCAL-00001" summary="阿萨">
+      <created>1582029941449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582029941449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="阿萨">
+      <created>1582029947228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582029947235</updated>
+    </task>
+    <task id="LOCAL-00003" summary="阿萨1">
+      <created>1582030627639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582030627639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加图片">
+      <created>1582030650051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582030650051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="846000" />
+    <option name="totallyTimeSpent" value="1931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25635877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25970548" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="3" />
@@ -261,7 +285,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -279,8 +303,40 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="阿萨" />
+    <MESSAGE value="阿萨1" />
+    <MESSAGE value="添加图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加图片" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/2017/02/01/hello-world/index.html">
@@ -290,22 +346,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="6650">
           <caret line="350" column="32" selection-start-line="350" selection-start-column="26" selection-end-line="350" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="17" />
+        <state relative-caret-position="-627">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-855">
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
         </state>
       </provider>
     </entry>
